@@ -1,1 +1,1 @@
-# cerveau
+# Le cerveau version simplifiée
